@@ -2,8 +2,16 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+<<<<<<< HEAD
+        <Text text="hi chetan"/>
+=======
         <content />
+<<<<<<< HEAD
         <Text text="pooja"></Text>
 
+=======
+        <Text text='Pranesh Text'/>
+>>>>>>> 1fd15f124a5591bda4e343c2d37f717a57411c1e
+>>>>>>> 8d41520aeb4326784af2e74da91dd8082a06e6f8
     </Page>
 </mvc:View>
